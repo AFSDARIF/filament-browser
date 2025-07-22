@@ -46,7 +46,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "tomatophp/console-helpers": "^1.1.0",
+        "tomatophp/console-helpers": "^1.1",
         "filament/filament": "^4.0",
         "afsdarif/filament-developer-gate": "^1.0.0",
         "maatwebsite/excel": "^3.1",
