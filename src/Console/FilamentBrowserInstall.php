@@ -4,7 +4,7 @@ namespace Afsdarif\FilamentBrowser\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
-use Tomatophp\ConsoleHelpers\Traits\RunCommand;
+use TomatoPHP\ConsoleHelpers\Traits\RunCommand;
 
 class FilamentBrowserInstall extends Command
 {
