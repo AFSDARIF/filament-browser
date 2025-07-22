@@ -23,8 +23,8 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\File;
 use Livewire\Attributes\On;
 use Afsdarif\FilamentBrowser\Models\Files;
-use TomatoPHP\FilamentDeveloperGate\Traits\DeveloperGateLogoutAction;
-use TomatoPHP\FilamentDeveloperGate\Traits\InteractWithDeveloperGate;
+use Afsdarif\FilamentDeveloperGate\Traits\DeveloperGateLogoutAction;
+use Afsdarif\FilamentDeveloperGate\Traits\InteractWithDeveloperGate;
 
 class Browser extends Page implements HasTable
 {
