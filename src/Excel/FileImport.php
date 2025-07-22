@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser\Excel;
+namespace Afsdarif\FilamentBrowser\Excel;
 
 use Illuminate\Support\Collection;
 use Maatwebsite\Excel\Concerns\ToCollection;

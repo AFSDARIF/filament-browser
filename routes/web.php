@@ -2,7 +2,7 @@
 
 
 use Illuminate\Support\Facades\Route;
-use TomatoPHP\FilamentBrowser\Http\Controllers\BrowserController;
+use Afsdarif\FilamentBrowser\Http\Controllers\BrowserController;
 use TomatoPHP\FilamentDeveloperGate\Http\Middleware\DeveloperGateMiddleware;
 
 

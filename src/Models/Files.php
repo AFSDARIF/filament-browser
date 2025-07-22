@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser\Models;
+namespace Afsdarif\FilamentBrowser\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;

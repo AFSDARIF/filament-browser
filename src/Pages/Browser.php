@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser\Pages;
+namespace Afsdarif\FilamentBrowser\Pages;
 
 use Creagia\FilamentCodeField\CodeField;
 use Filament\Actions\Action;
@@ -22,7 +22,7 @@ use Filament\Tables\Table;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\File;
 use Livewire\Attributes\On;
-use TomatoPHP\FilamentBrowser\Models\Files;
+use Afsdarif\FilamentBrowser\Models\Files;
 use TomatoPHP\FilamentDeveloperGate\Traits\DeveloperGateLogoutAction;
 use TomatoPHP\FilamentDeveloperGate\Traits\InteractWithDeveloperGate;
 

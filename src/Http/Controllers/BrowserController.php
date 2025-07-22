@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser\Http\Controllers;
+namespace Afsdarif\FilamentBrowser\Http\Controllers;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Bus\DispatchesJobs;
@@ -8,7 +8,7 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\File;
-use TomatoPHP\FilamentBrowser\Events\BrowserFileSaved;
+use Afsdarif\FilamentBrowser\Events\BrowserFileSaved;
 
 class BrowserController extends Controller
 {

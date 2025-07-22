@@ -1,12 +1,12 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser;
+namespace Afsdarif\FilamentBrowser;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 use Illuminate\View\View;
 use Nwidart\Modules\Module;
-use TomatoPHP\FilamentBrowser\Pages\Browser;
+use Afsdarif\FilamentBrowser\Pages\Browser;
 use TomatoPHP\FilamentDeveloperGate\FilamentDeveloperGatePlugin;
 use TomatoPHP\FilamentDeveloperGate\Pages\DeveloperGate;
 

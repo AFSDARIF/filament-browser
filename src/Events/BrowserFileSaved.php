@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser\Events;
+namespace Afsdarif\FilamentBrowser\Events;
 
 use Illuminate\Broadcasting\Channel;
 use Illuminate\Broadcasting\InteractsWithSockets;

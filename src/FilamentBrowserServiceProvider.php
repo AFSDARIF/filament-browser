@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentBrowser;
+namespace Afsdarif\FilamentBrowser;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -11,7 +11,7 @@ class FilamentBrowserServiceProvider extends ServiceProvider
     {
         //Register generate command
         $this->commands([
-           \TomatoPHP\FilamentBrowser\Console\FilamentBrowserInstall::class,
+           \Afsdarif\FilamentBrowser\Console\FilamentBrowserInstall::class,
         ]);
 
         //Register Config file

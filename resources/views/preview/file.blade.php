@@ -55,7 +55,7 @@
         'tsv'
     ]))
         @php
-            $data = Excel::toArray(new \TomatoPHP\FilamentBrowser\Excel\FileImport(), $file['path'])[0];
+            $data = Excel::toArray(new \Afsdarif\FilamentBrowser\Excel\FileImport(), $file['path'])[0];
         @endphp
         <div class="fi-ta-content relative divide-y divide-gray-200 overflow-x-auto dark:divide-white/10 dark:border-t-white/10">
             <table class="fi-ta-table w-full table-auto divide-y divide-gray-200 text-start dark:divide-white/5">
